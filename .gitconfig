@@ -3,7 +3,7 @@
 [init]
 	defaultBranch = main
 [user]
-	email = ovidiu.gabor20@gmail.com
+	email = ovidiu.gabor200@gmail.com
 	name = GOvidiu20
 	signingkey = ~/.ssh/id_rsa.pub
 [gpg]
